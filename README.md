@@ -1,2 +1,3 @@
-# index
-MAS Group Open Source Community
+# MAS Group
+
+MAS Group
